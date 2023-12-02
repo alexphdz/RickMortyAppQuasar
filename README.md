@@ -1,6 +1,6 @@
 # Rick and Morty App
 
-![Logo de Rick and Morty](enlace-a-imagen-o-logo.png)
+![Logo de Rick and Morty](https://1000marcas.net/wp-content/uploads/2022/04/Rick-and-Morty.png)
 
 Esta es una aplicación web basada en Vue.js y Quasar Framework que muestra información sobre personajes de la famosa serie de televisión "Rick and Morty". La aplicación utiliza la [API pública de Rick and Morty](https://rickandmortyapi.com/) para obtener datos en tiempo real sobre los personajes, episodios y ubicaciones.
 
