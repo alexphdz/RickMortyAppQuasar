@@ -14,7 +14,7 @@ Esta es una aplicación web basada en Vue.js y Quasar Framework que muestra info
 
 ```bash
 # 1. Clonar el Repositorio
-git clone <enlace-del-repositorio>
+git clone https://github.com/alexphdz/RickMortyAppQuasar.git
 cd rick-morty-app
 
 # 2. Construir y Ejecutar con Docker
