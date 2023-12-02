@@ -14,16 +14,15 @@ Esta es una aplicación web basada en Vue.js y Quasar Framework que muestra info
 
 ## Instrucciones de Uso
 
-### 1. Clonar el Repositorio
-
 ```bash
+# 1. Clonar el Repositorio
 git clone <enlace-del-repositorio>
 cd rick-morty-app
 
-# Construir la imagen Docker
+# 2. Construir y Ejecutar con Docker
+# Primero, asegúrate de tener Docker instalado en tu máquina.
 docker buildx build -t rickandmortyapp .
-
-# Ejecutar el contenedor
 docker run -p 8080:8080 rickandmortyapp
 
-
+# 3. Acceder a la Aplicación
+# Abre tu navegador y visita http://localhost:8080.
