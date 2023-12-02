@@ -10,8 +10,6 @@ Esta es una aplicación web basada en Vue.js y Quasar Framework que muestra info
 
 - **Búsqueda Dinámica:** Utiliza una función de búsqueda para encontrar rápidamente tus personajes favoritos.
 
-- **Interfaz Atractiva:** Diseño agradable y responsivo gracias a Quasar Framework.
-
 ## Instrucciones de Uso
 
 ```bash
