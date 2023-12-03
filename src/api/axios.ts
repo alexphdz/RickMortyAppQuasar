@@ -22,3 +22,10 @@ export const getResidents = async (id: number) => {
   characters.sort((a, b) => a.name.localeCompare(b.name));
   return characters;
 };
+
+export const getCharactersFromOwnDatabase = async () => {
+  const baseUrl = 'http://localhost:5168/Character';
+  const characters: Character[] = (await rickyMortyApi.get(`${baseUrl}`)).data
+    .data;
+  return characters;
+};

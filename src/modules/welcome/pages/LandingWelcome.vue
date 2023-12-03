@@ -13,7 +13,6 @@
             no-caps
             size="xl"
             label="Explorar"
-            push
           />
         </div>
       </div>
